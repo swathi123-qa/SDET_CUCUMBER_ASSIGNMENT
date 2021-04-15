@@ -1,5 +1,6 @@
 package cucumber.api.junit;
 
-public class Cucumber {
+public class Cucumber
+{
 
 }
