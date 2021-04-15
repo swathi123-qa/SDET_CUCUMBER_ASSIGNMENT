@@ -1,10 +1,10 @@
 package com.qa.BBDTestRunner;
-import org.junit.runner.RunWith;
+//import org.junit.runner.RunWith;
 
 import cucumber.api.CucumberOptions;
 import cucumber.api.junit.Cucumber;
 
-@RunWith(Cucumber.class)
+//@RunWith(Cucumber.class)
 @CucumberOptions(
 		
 		features= "C:\\Users\\babuprasads\\eclipse-workspace\\SeleniumAssignment\\src\\test\\java\\com\\qa\\Features\\OpenSource.feature",
